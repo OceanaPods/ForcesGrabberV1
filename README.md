@@ -14,3 +14,10 @@ https://discord.gg/2QcrTEPVhb
 
 Dm EmboV3#7556 on Discord
 
+
+# Overview :
+
+( To Setup Click <<>> )
+
+
+
