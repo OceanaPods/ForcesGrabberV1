@@ -89,7 +89,7 @@ It GRABS :
 
 > + More!
 
-( Method Can Also Be Used To Log Authorization Apps in Discord Servers )
+( Method Can Also Be Used To Grab Account Data from Authorization Apps in Discord Servers )
 
 GRAB OVERVIEW :
 
