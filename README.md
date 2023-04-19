@@ -17,7 +17,7 @@ Dm EmboV3#7556 on Discord
 
 # Overview :
 
-( To Setup Click <<>> )
+( To Setup Click <<Read_ForcesGrabber_How_To_Set_Up>> )
 
 
 
