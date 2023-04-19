@@ -1,2 +1,10 @@
 # ForcesGrabberV1
-BEST GRABBER IN 2023
+NOTE:
+
+
+
+.
+
+
+
+Disclaimer - I'm not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing
