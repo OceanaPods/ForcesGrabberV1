@@ -89,10 +89,18 @@ It GRABS :
 
 > + More!
 
+( Method Can Also Be Used To Log Authorization Apps in Discord Servers )
+
 GRAB OVERVIEW :
+
 
 https://media.discordapp.net/attachments/1079145040015802420/1098316762560331776/IMG_4602.png
 https://cdn.discordapp.com/attachments/1079145040015802420/1098316769275420722/IMG_4605.png
 https://cdn.discordapp.com/attachments/1079145040015802420/1098316781526986882/IMG_4603.png
 https://cdn.discordapp.com/attachments/1079145040015802420/1098316788367884349/IMG_4604.png
 
+
+
+
+
+( EVERYTHING HERE IS FOR EDUCATIONAL PURPOSES )
