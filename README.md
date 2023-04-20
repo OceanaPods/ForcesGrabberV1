@@ -12,7 +12,7 @@ https://discord.gg/2QcrTEPVhb
 
 # NEED HELP?
 
-Dm EmboV3#7556 on Discord
+Dm EmboV5#0672 on Discord
 
 
 # Overview :
